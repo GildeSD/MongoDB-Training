@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "674443a2f224338db1bcfa3c"
+  },
+  "titel": "The Matrix",
+  "genre": "Action",
+  "jaar": 1999,
+  "rating": 9,
+  "acteurs": [
+    "Keanu Reeves",
+    "Laurence Fishburne"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674443a2f224338db1bcfa3d"
+  },
+  "titel": "Interstellar",
+  "genre": "Adventure",
+  "jaar": 2014,
+  "rating": 8.6,
+  "acteurs": [
+    "Matthew McConaughey",
+    "Anne Hathaway"
+  ],
+  "favoriet": true
+}]
